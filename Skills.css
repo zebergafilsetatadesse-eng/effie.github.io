@@ -1,0 +1,24 @@
+head{
+    color:red;
+    font-size: 3rem;
+}
+head h1{
+    color:rgb(236, 232, 232);
+    font-size: 3rem;
+}
+.Skills {
+    padding: 5rem 9%;
+    text-align: center;
+}
+.Skills-html{
+     display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+.Skills-css{
+     display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+}
